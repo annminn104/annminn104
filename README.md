@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anh Minh (Matthew)</h1>
 <h3 align="center">A passionate Frontend Developer from Viet Nam.</h3>
 
-- 🔭 I’m currently working on **AMIT GROUP**
+- 🔭 I’m currently working on **Sanbul Solutions**
 
 - 🌱 I’m currently learning **React, Nextjs, Angular**
 

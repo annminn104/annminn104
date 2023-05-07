@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Anh Minh (Matthew)</h1>
-<h3 align="center">A passionate Frontend Developer from Viet Nam.</h3>
+<h3 align="center">A passionate Frontend Developer from Viet Nam with 1.5 years of experience.</h3>
 <p align="center">You can call me Matthew</p>
 
 - 🔭 I’m currently working on **Sanbul Solutions**
 
-- 🌱 I’m currently learning **React, Nextjs, Angular**
+- 🌱 I’m currently learning **React, NextJS, Angular**
 
 - 👯 I’m looking to collaborate on **...**
 

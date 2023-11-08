@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anh Minh (Matthew)</h1>
-<h3 align="center">A passionate Frontend Developer from Viet Nam with 1.5 years of experience.</h3>
+<h3 align="center">A passionate Frontend Developer from Viet Nam with 2 years of experience.</h3>
 <h2 align="center">You can call me Matthew</h2>
 
 - 🔭 I’m currently working on **Sanbul Solutions**

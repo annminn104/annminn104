@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend Developer from Viet Nam with over 3 years of experience.</h3>
 <h2 align="center">You can call me Matthew</h2>
 
-- 📄 My portfolio [https://minhmatthew-portfolio.vercel.app](...)
+- 📄 My portfolio [https://minhmatthew-portfolio.vercel.app](https://minhmatthew-portfolio.vercel.app)
 
 - 🔭 I’m currently working on **Sanbul Solutions**
 
@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **...** -->
 
-- 👨‍💻 All of my projects are available at [https://github.com/annminn104?tab=repositories](...)
+- 👨‍💻 All of my projects are available at [https://github.com/annminn104?tab=repositories](https://github.com/annminn104?tab=repositories)
 
 <!-- - 📝 I regularly write articles on [...](...) -->
 

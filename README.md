@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend Developer from Viet Nam with over 3 years of experience.</h3>
 <h2 align="center">You can call me Matthew</h2>
 
-- 📄 My portfolio: [https://github.com/annminn104?tab=repositories](...)
+- 📄 My portfolio [https://github.com/annminn104?tab=repositories](...)
 
 - 🔭 I’m currently working on **Sanbul Solutions**
 

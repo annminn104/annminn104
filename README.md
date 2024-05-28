@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anh Minh (Matthew)</h1>
-<h3 align="center">A passionate Frontend Developer from Viet Nam with over3 years of experience.</h3>
+<h3 align="center">A passionate Frontend Developer from Viet Nam with over 3 years of experience.</h3>
 <h2 align="center">You can call me Matthew</h2>
 
-<h4 aligm="center"><strong>My portfolio: </strong>minhmatthew-portfolio.vercel.app</h4>
+<h4 align="center"><strong>My portfolio: </strong>minhmatthew-portfolio.vercel.app</h4>
 
 - 🔭 I’m currently working on **Sanbul Solutions**
 

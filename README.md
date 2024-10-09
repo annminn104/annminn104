@@ -4,7 +4,7 @@
 
 - 📄 My portfolio [https://minhmatthew-portfolio.vercel.app](https://minhmatthew-portfolio.vercel.app)
 
-- 🔭 I’m currently working on **Sanbul Solutions**
+- 🔭 I’m currently working on **Gearment**
 
 - 🌱 I’m currently learning **React, NextJS, Angular**
 

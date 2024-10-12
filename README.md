@@ -18,13 +18,13 @@
 
 <!-- - 💬 Ask me about **...** -->
 
-- 📫 How to reach me **annminn100@gmail.com**
+- 📫 How to reach me **<annminn100@gmail.com>**
 
 <!-- - 📄 Know about my experiences [...](...) -->
 
 - ⚡ Fun fact **...**
 
-<img align="right" alt="Coding" width="400" src="https://github.com/supravatm/supravatm/blob/main/src/code.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/supravatm/annminn104/blob/main/images/dev.gif">
 
 <h3 align="left">Connect with me</h3>
 <p align="left">

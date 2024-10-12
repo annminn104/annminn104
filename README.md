@@ -24,8 +24,7 @@
 
 - ⚡ Fun fact **...**
 
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img align="right" alt="Coding" width="400" src="https://github.com/supravatm/supravatm/blob/main/src/code.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

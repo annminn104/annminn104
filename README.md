@@ -86,7 +86,7 @@
   <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  />
 </div>
 
-<a href="https://github.com/syedammar111">
+<a href="https://github.com/annminn104">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=annminn104&theme=buefy&show_icons=true" />
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annminn104&theme=buefy&layout=compact" />
 </a>

@@ -26,7 +26,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/supravatm/supravatm/blob/main/src/code.gif">
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://codepen.io/annminn104" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="annminn104" height="30" width="40" /></a>
 <a href="https://dev.to/annminn104" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="annminn104" height="30" width="40" /></a>
@@ -35,7 +35,7 @@
 <a href="https://discord.gg/5723" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5723" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img width="12" />
@@ -88,7 +88,7 @@
   <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  />
 </div>
 <br/>
-<h3 align="left">⚙️ Git Analytics:</h3>
+<h3 align="left">⚙️ Git Analytics</h3>
 <a href="https://github.com/annminn104">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=annminn104&theme=buefy&show_icons=true" />
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annminn104&theme=buefy&layout=compact" />

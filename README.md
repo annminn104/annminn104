@@ -93,3 +93,11 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=annminn104&theme=buefy&show_icons=true" />
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annminn104&theme=buefy&layout=compact" />
 </a>
+
+<br>
+
+<div align="center">
+  <b>Visitors Count</b>
+  <br>
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{annminn104}/count.svg" /></p>
+</div>

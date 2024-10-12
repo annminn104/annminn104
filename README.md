@@ -99,5 +99,7 @@
 <div align="center">
   <b>Visitors Count</b>
   <br>
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{annminn104}/count.svg" /></p>
+  <p align="center">
+    <img align="center" src="https://profile-counter.glitch.me/{annminn104}/count.svg" />
+  </p>
 </div>

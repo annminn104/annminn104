@@ -11,8 +11,6 @@
 
 - 🤝 I’m looking for help with **...** -->
 
-- 👨‍💻 All of my projects are available at [https://github.com/annminn104?tab=repositories](https://github.com/annminn104?tab=repositories)
-
 <!-- - 📝 I regularly write articles on [...](...) -->
 
 <!-- - 💬 Ask me about **...** -->

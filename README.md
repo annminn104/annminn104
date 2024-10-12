@@ -24,7 +24,7 @@
 
 - ⚡ Fun fact **...**
 
-<img align="right" alt="Coding" width="400" src="https://github.com/supravatm/annminn104/blob/main/images/dev.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/annminn104/blob/main/images/dev.gif">
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
